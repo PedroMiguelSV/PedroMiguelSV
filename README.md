@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Miguel</h1>
 <h3 align="center">A passionate junior developer from España</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, PHP, Java, MySQL, Angular, and Laravel**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Bootstrap, PHP, Java, MySQL, Angular, and Laravel**
 
 - 📫 How to reach me: **spedro424@gmail.com**
 
@@ -26,6 +26,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a> 
@@ -47,4 +50,3 @@
 <p align="left">
     I am a junior developer focused on building web applications using modern frameworks and technologies. I have experience working with both front-end and back-end technologies and am always looking to learn new tools to improve my skills.
 </p>
-
